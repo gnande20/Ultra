@@ -22,14 +22,14 @@
   
   "adminBot": [
     "61578285070959",
-    ""
+    "61578153767211"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "‌∞≈♦_Ultron_♦≈∞",
+  "nickNameBot": "‌∞≈♦_camille_♦≈∞",
   "prefix": ".",
   "database": {
     "type": "mongodb",
